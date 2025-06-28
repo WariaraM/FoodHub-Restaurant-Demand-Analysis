@@ -61,7 +61,7 @@ Using order-level commission rates, this project computed the **net revenue** ge
 ## 📎 Notebook
 
 See the full analysis and visualizations in the Jupyter Notebook:  
-[`foodhub_restaurant_analysis.ipynb`](foodhub_restaurant_analysis.ipynb)
+[`FoodHub-Restaurant-Demand-Analysis.ipynb`](FoodHub-Restaurant-Demand-Analysis.ipynb)
 
 ---
 

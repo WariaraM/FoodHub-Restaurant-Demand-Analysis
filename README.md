@@ -65,4 +65,4 @@ See the full analysis and visualizations in the Jupyter Notebook:
 
 ---
 
-*Project by [Your Name], Data Science Portfolio.*
+*Project by Angel Wariara Mugo, Data Science Portfolio.*
